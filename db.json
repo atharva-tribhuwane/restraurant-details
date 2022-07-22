@@ -1,0 +1,344 @@
+{
+  "restraurants": [
+    {
+      "name": "URU BrewPack",
+      "cuisine": "Continental, Pizza, Asian, Desserts",
+      "rating": 4.3,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 50,
+      "maxdeliverytime": 30,
+      "costforone": 600,
+      "img_url": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "id": 1
+    },
+    {
+      "name": "Biriyani By Kilo",
+      "cuisine": "Biryani, Kebab",
+      "rating": 3.7,
+      "votes": 2944,
+      "reviews": 8367,
+      "deliverycharge": 30,
+      "maxdeliverytime": 90,
+      "costforone": 450,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/3/19269033/1aab6ed03346abae636bdac9cb1626b1_o2_featured_v2.jpg?output-format=webp",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 2
+    },
+    {
+      "name": "McDonald's",
+      "cuisine": "Burger, Fast Food",
+      "rating": 4,
+      "votes": 546,
+      "reviews": 324,
+      "deliverycharge": 60,
+      "maxdeliverytime": 34,
+      "costforone": 450,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/1/10571/c0ba9ec0f08684316b2552a8eb5a1ea8_o2_featured_v2.jpg?output-format=webp",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 3
+    },
+    {
+      "name": "Shree Krishna Veg Court",
+      "cuisine": "North Indian, South Indian, Continental",
+      "rating": 4,
+      "votes": 546,
+      "reviews": 324,
+      "deliverycharge": 60,
+      "maxdeliverytime": 34,
+      "costforone": 450,
+      "img_url": "https://b.zmtcdn.com/data/pictures/6/10206/7fdd6d9a87e317801d708c7996381a83_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+      },
+      "id": 4
+    },
+    {
+      "name": "Thali Central",
+      "cuisine": "North Indian, South Indian, Continental",
+      "rating": 4,
+      "votes": 546,
+      "reviews": 324,
+      "deliverycharge": 60,
+      "maxdeliverytime": 34,
+      "costforone": 450,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/2/19669112/bc912dd8b5f83d1b5cf88a934035da7c_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 5
+    },
+    {
+      "name": "Mad Momos",
+      "cuisine": "Momos, Chinese",
+      "rating": 3.7,
+      "votes": 5334,
+      "reviews": 3563,
+      "deliverycharge": 0,
+      "maxdeliverytime": 29,
+      "costforone": 300,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/8/6505038/86fee6aafac2ebf0809edcc2ee281a76_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "id": 6
+    },
+    {
+      "name": "The Irani Cafe",
+      "cuisine": "Fast Food, Bakery, Beverages",
+      "rating": 4.2,
+      "votes": 5334,
+      "reviews": 3563,
+      "deliverycharge": 0,
+      "maxdeliverytime": 29,
+      "costforone": 300,
+      "img_url": "https://b.zmtcdn.com/data/pictures/8/18304348/a9b62942b694c2caf8547f50fee65a3a_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "id": 7
+    },
+    {
+      "name": "Chaitanya Paranthas",
+      "cuisine": "North Indian, Chinese, Biryani",
+      "rating": 3.9,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 30,
+      "maxdeliverytime": 26,
+      "costforone": 250,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/3/10013/34600614f8ed8b2f722c30442fd0fd9e_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 8
+    },
+    {
+      "name": "Chang's",
+      "cuisine": "Chinese, Asian",
+      "rating": 4,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 0,
+      "maxdeliverytime": 21,
+      "costforone": 250,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/4/11104/d04e3360edf014b13ff93d5dd0860dfc_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 9
+    },
+    {
+      "name": "Rolls Mania",
+      "cuisine": "Rolls, FastFood",
+      "rating": 4.1,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 0,
+      "maxdeliverytime": 18,
+      "costforone": 250,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/6/11326/cd669b682419d986ba9e4550de43505a_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "id": 10
+    },
+    {
+      "name": "Behrouz Biryani",
+      "cuisine": "Biryani, Mughlai, Kebab",
+      "rating": 4.2,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 0,
+      "maxdeliverytime": 25,
+      "costforone": 450,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/0/18365240/7d1d6155fa28b3864c1f71342eea8b1c_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 11
+    },
+    {
+      "name": "Toscano",
+      "cuisine": "Italian, Continental",
+      "rating": 4.1,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 0,
+      "maxdeliverytime": 44,
+      "costforone": 350,
+      "img_url": "https://b.zmtcdn.com/data/pictures/9/19241539/af3f51af0b6fd6d59bad6aba87176c7f_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 12
+    },
+    {
+      "name": "NIC - Natural Ice Cream",
+      "cuisine": "IceCream, Desserts",
+      "rating": 4.1,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 0,
+      "maxdeliverytime": 44,
+      "costforone": 350,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/0/19314740/67cb3c95feab1ae5d595fcbf555a34c9_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 13
+    },
+    {
+      "name": "Urban Darbar",
+      "cuisine": "North Indian, Continental",
+      "rating": 4.2,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 0,
+      "maxdeliverytime": 23,
+      "costforone": 250,
+      "img_url": "https://b.zmtcdn.com/data/pictures/0/19957270/56de159354f2a792ec93d662972dddf3_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 14
+    },
+    {
+      "name": "The Belgian Waffle",
+      "cuisine": "Waffle, PanCake",
+      "rating": 4.2,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 50,
+      "maxdeliverytime": 29,
+      "costforone": 250,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/4/18560854/64e328ee2b6fe4d82aa36f2f5213f737_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 15
+    },
+    {
+      "name": "Starbucks Coffee",
+      "cuisine": "Cafe, Beverages",
+      "rating": 4.3,
+      "votes": 766,
+      "reviews": 512,
+      "deliverycharge": 50,
+      "maxdeliverytime": 29,
+      "costforone": 250,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/9/6503729/3c642955af011930ba090d7464aaea75_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 16
+    },
+    {
+      "name": "Dal Kichadi Wala",
+      "cuisine": "North Indian",
+      "rating": 3.8,
+      "votes": 76,
+      "reviews": 52,
+      "deliverycharge": 30,
+      "maxdeliverytime": 20,
+      "costforone": 250,
+      "img_url": "https://b.zmtcdn.com/data/pictures/4/19524934/372b90e60b086d088ec50fda33a506dc_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 17
+    },
+    {
+      "name": "Chef De Burger",
+      "cuisine": "Fast Food, Burger, French Fries",
+      "rating": 4.3,
+      "votes": 76,
+      "reviews": 52,
+      "deliverycharge": 20,
+      "maxdeliverytime": 26,
+      "costforone": 150,
+      "img_url": "https://b.zmtcdn.com/data/pictures/5/19458955/c38b61a176ebd357d9cfa1b67047c37c_o2_featured_v2.jpg?output-format=webp",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 18
+    },
+    {
+      "name": "Bskin Robins",
+      "cuisine": "Ice Cream",
+      "rating": 4.4,
+      "votes": 76,
+      "reviews": 52,
+      "deliverycharge": 60,
+      "maxdeliverytime": 23,
+      "costforone": 150,
+      "img_url": "https://b.zmtcdn.com/data/pictures/chains/6/10756/a559d962d8dfbe0a3efb01c867126cc0_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 19
+    },
+    {
+      "name": "Fried Chicken Destination",
+      "cuisine": "Fast Food, Burger, Beverages",
+      "rating": 4.2,
+      "votes": 76,
+      "reviews": 52,
+      "deliverycharge": 30,
+      "maxdeliverytime": 34,
+      "costforone": 150,
+      "img_url": "https://b.zmtcdn.com/data/pictures/1/20169891/c8186a87f8a7d31735f0e53700248b82_o2_featured_v2.jpg",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 20
+    }
+  ]
+}
